@@ -1,2 +1,2 @@
 # Puissance4
-jeux
+Jeux
