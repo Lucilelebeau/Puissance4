@@ -1,2 +1,3 @@
 # Puissance4
-Jeux
+ Plugin Jeux
+ Web@cadémie Epitech Marseille
