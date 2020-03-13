@@ -5,5 +5,5 @@
  réalisé dans le cadre de la formation Web@cadémie Epitech Marseille
  
  # Langages utilisés
- *Javascript
- *librairie Jquery
+ - Javascript
+ - librairie Jquery
